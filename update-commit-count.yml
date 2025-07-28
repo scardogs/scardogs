@@ -1,0 +1,55 @@
+name: 🔄 Update Total Commits (All Branches)
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # runs every day at midnight
+  workflow_dispatch:      # allows manual run
+
+jobs:
+  count-commits:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Profile Repo
+        uses: actions/checkout@v3
+
+      - name: Install GitHub CLI & jq
+        run: |
+          sudo apt update
+          sudo apt install gh jq -y
+
+      - name: Authenticate GitHub CLI
+        run: |
+          echo "${{ secrets.GITHUB_TOKEN }}" | gh auth login --with-token
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Clone All Repos & Count Commits
+        run: |
+          mkdir repos
+          cd repos
+          total=0
+
+          for repo in $(gh repo list scardogs --json name -L 100 | jq -r '.[].name'); do
+            echo "Cloning $repo..."
+            git clone --mirror https://github.com/scardogs/$repo.git
+            cd "$repo.git"
+            count=$(git rev-list --all --count)
+            echo "$repo: $count commits"
+            total=$((total + count))
+            cd ..
+          done
+
+          echo "🔢 Total Commits (all branches): $total" > ../commit-count.txt
+
+      - name: Update README
+        run: |
+          sed -i '/🔢 Total Commits (all branches):/c\\\n🔢 Total Commits (all branches): $(cat commit-count.txt | cut -d ':' -f 2 | xargs)' README.md
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "🔄 Update total commit count"
+          git push
