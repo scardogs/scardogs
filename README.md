@@ -44,8 +44,9 @@
 <!-- COMMIT_COUNT -->
 <p align="center">
   <img src="https://img.shields.io/badge/🔢%20Total%20Commits-All%20Branches-informational?style=for-the-badge&color=brightgreen" />
-  <br><strong>🔢 Total Commits (all branches):</strong> <!-- COMMIT_COUNT -->
+  <br><strong>🔢 Total Commits (all branches):</strong> 387
 </p>
+
 
 
 ---
