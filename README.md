@@ -16,8 +16,6 @@ Currently exploring opportunities in web development, software engineering, or a
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scardogs&show_icons=true&theme=radical&count_private=true)
 
 ### 🔥 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=scardogs&theme=radical)](https://git.io/streak-stats)
