@@ -1,31 +1,64 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm John Michael Escarlan</h1>
+<h3 align="center">🚀 Fresh IT Graduate | Passionate Developer | Tech Explorer</h3>
 
-I'm a fresh IT graduate passionate about tech, coding, and building real-world projects.  
-Currently exploring opportunities in web development, software engineering, or anything tech-related!
-
----
-
-### 🔧 Technologies & Tools
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=I+love+building+cool+tech.;Always+learning+new+things!;Web+%7C+Software+%7C+Tech+%7C+Code+💻" alt="Typing SVG" />
+</p>
 
 ---
 
+### 🧠 About Me
+- 🎓 Fresh graduate in Information Technology  
+- 🌱 Currently learning full-stack web development  
+- 🔍 Looking for opportunities in **web dev**, **software engineering**, or anything **tech-related**
+- 🧩 I love solving problems and building real-world projects
+
+---
+
+### 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=scardogs&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" />
+</p>
+
+---
 
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=scardogs&theme=radical)](https://git.io/streak-stats)
 
-### 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scardogs&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=scardogs&theme=radical" alt="GitHub streak" />
+</p>
 
 ---
 
-### 📫 Connect with me
-Feel free to reach out if you're hiring or want to collaborate on something cool!  
-📧 Email: *your-email@example.com*  
-📍 Based in: *Your City, Country*
+### 💻 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scardogs&layout=compact&theme=radical" />
+</p>
+
+---
+
+<!-- COMMIT_COUNT -->
+🔢 Total Commits (all branches): ...
+
+---
+
+### 📬 Contact Me
+- 📧 **johnmichael.escarlan14@gmail.com**  
+- 🌍 **Iloilo City, Philippines**  
+- 💼 [Visit My Portfolio](#) *(Add link if available)*
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
+</p>
