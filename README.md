@@ -23,11 +23,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=scardogs&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" />
-</p>
 
 ---
 
