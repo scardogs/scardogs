@@ -1,10 +1,12 @@
 <!-- HEADER -->
-<h1 align="center">Hi there, I'm John Michael Escarlan 👋</h1>
-<h3 align="center">🎓 Fresh IT Graduate | 💻 Web Dev Enthusiast | 🌱 Always Learning</h3>
+<div align="center" style="background-image: url('https://i.imgur.com/o7rYz1y.gif'); background-size: cover; padding: 40px; border-radius: 10px;">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=I+build+cool+stuff+with+code.;Passionate+about+Web+and+Tech.;Always+open+to+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<h1>Hi there, I'm John Michael Escarlan 👋</h1>
+<h3>🎓 Fresh IT Graduate | 💻 Web Dev Enthusiast | 🌱 Always Learning</h3>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=I+build+cool+stuff+with+code.;Passionate+about+Web+and+Tech.;Always+open+to+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
 
 ---
 
@@ -25,7 +27,6 @@
 
 ---
 
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=scardogs&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
@@ -41,8 +42,6 @@
   <img src="https://img.shields.io/badge/🔢%20Total%20Commits-All%20Branches-informational?style=for-the-badge&color=brightgreen" />
   <br><strong>🔢 Total Commits (all branches):</strong> 387
 </p>
-
-
 
 ---
 
