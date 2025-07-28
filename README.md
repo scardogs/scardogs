@@ -25,11 +25,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=scardogs&show_icons=true&theme=radical&count_private=true&hide=stars" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=scardogs&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
