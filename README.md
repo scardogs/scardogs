@@ -13,7 +13,7 @@
 ### 🧠 About Me
 - 🎓 Fresh graduate in Information Technology  
 - 💡 I love building real-world apps and solving problems  
-- 🌱 Full Stack Developmenr  
+- 🌱 Full Stack Developmer
 - 💼 Looking for roles in **Web Development**, **Software Engineering**, or **Technical Support**  
 - ⚡ Fun fact: I debug better with coffee ☕ and good music 🎧
 
