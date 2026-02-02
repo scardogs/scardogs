@@ -2,7 +2,7 @@
 <div align="center" style="background-image: url('https://i.imgur.com/o7rYz1y.gif'); background-size: cover; padding: 40px; border-radius: 10px;">
 
 <h1>Hi there, I'm John Michael Escarlan 👋</h1>
-<h3>🎓 Fresh IT Graduate | 💻 Web Dev Enthusiast | 🌱 Always Learning</h3>
+<h3>🎓 Automation Specialist | 💻 Web Dev  | 🌱 Always Learning</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=I+build+cool+stuff+with+code.;Passionate+about+Web+and+Tech.;Always+open+to+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
